@@ -18,6 +18,7 @@
 CLIENT_ID –  это идентификатор клиента,
 AMOUNT – сумма совершенной покупки,
 DATE – дата совершенной транзакции.
+
 <img width="336" height="219" alt="image" src="https://github.com/user-attachments/assets/cfd85ad9-3ced-402e-be44-5c6cb91ea0c8" />
 
 Необходимо написать запросы, которые покажут:
